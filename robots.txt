@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wenxingwei214-lab.github.io/xiaowenjiadian/sitemap.xml
